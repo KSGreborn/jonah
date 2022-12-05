@@ -4,7 +4,7 @@
 
         "show_ads": true,
         
-        "bannerAd": "admob",
+        "bannerAd": "facebook",
         "InterAd": "facebook",
         "NativeAd": "admob",
 
@@ -67,11 +67,11 @@
     
 		"extraButton1Active": true,   
 		"extraButton1Title": "Big Lots",
-		"extraButton1Url": "https://kooora.com",
+		"extraButton1Url": "https://www.biglots.com/",
 
 		"extraButton2Active": true,
 		"extraButton2Title": "Primark",
-		"extraButton2Url": "https://facebook.com",
+		"extraButton2Url": "https://www.primark.com/en-gb",
 		"enterButtonText": "Enter Now json",
 
 		"webview": {
