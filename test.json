@@ -4,9 +4,9 @@
 
         "show_ads": true,
         
-        "bannerAd": "facebook",
-        "InterAd": "facebook",
-        "NativeAd": "facebook",
+        "bannerAd": "fan",
+        "InterAd": "fan",
+        "NativeAd": "fan",
 
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
