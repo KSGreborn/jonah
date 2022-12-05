@@ -2,11 +2,11 @@
 
     "Ads": {
 
-        "show_ads": false,
+        "show_ads": true,
         
-        "bannerAd": "facebook",
+        "bannerAd": "admob",
         "InterAd": "facebook",
-        "NativeAd": "facebook",
+        "NativeAd": "admob",
 
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
@@ -34,9 +34,9 @@
 		"normalPopUp": {
 
 			"popUpActive": true,
-			"popUpLink": "https://google.com",
-			"popUpName": "Normal Popup",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "Get Free Gift Card",
+			"popImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9B3Ge90ShhEi2JDRzmvJbmPVhDJud0DE3wUnIwZqhuiA-O5wJ4AT_4-rZ3O29HZgdxoiaPKjriTAflBUDS_z5LQNR29cRoMnIE426eCSrX5DfNUIve40GtU8YnbbrtzJ4FGn0EFTDj83JvhG1axTND7_tjesIPpOLRNHh_NSRzURFhf2TYoE2vZYZJQ/s16000/dolargift.png"
 
 		},
 
@@ -66,24 +66,24 @@
     
     
 		"extraButton1Active": true,   
-		"extraButton1Title": "Extra 1",
+		"extraButton1Title": "Big Lots",
 		"extraButton1Url": "https://kooora.com",
 
 		"extraButton2Active": true,
-		"extraButton2Title": "Extra 2",
+		"extraButton2Title": "Primark",
 		"extraButton2Url": "https://facebook.com",
 		"enterButtonText": "Enter Now json",
 
 		"webview": {
 
 			"active": true,
-			"url": "https://google.com",
+			"url": "https://www.shoedazzle.com/",
       
       
 			"popUpActive": true,
-			"popUpLink": "https://google.com",
-			"popUpName": "Browser App",
-			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+			"popUpLink": "https://giftcardway.com/",
+			"popUpName": "Get Free Gift Card",
+			"popImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9B3Ge90ShhEi2JDRzmvJbmPVhDJud0DE3wUnIwZqhuiA-O5wJ4AT_4-rZ3O29HZgdxoiaPKjriTAflBUDS_z5LQNR29cRoMnIE426eCSrX5DfNUIve40GtU8YnbbrtzJ4FGn0EFTDj83JvhG1axTND7_tjesIPpOLRNHh_NSRzURFhf2TYoE2vZYZJQ/s16000/dolargift.png",
 			"popUpTimer": 30000
 
 		}
