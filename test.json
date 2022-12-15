@@ -4,8 +4,8 @@
 
         "show_ads": true,
         
-        "bannerAd": "admob",
-        "InterAd": "admob",
+        "bannerAd": "max",
+        "InterAd": "max",
         "NativeAd": "admob",
 
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -16,8 +16,8 @@
         "facebook_inter": "IMG_16_9h_APP_INSTALL#645522883286327_650761136095835",
         "facebook_native": "IMG_16_9_APP_IhNSTALL#645522883286327_651620499343232",
         
-        "max_banner": "d63e6a495daa9c2e",
-        "max_inter": "4fc0ba752a8038b6",
+        "max_banner": "3fe9bf293afbac9e",
+        "max_inter": "f70ec55c5274ad7a",
         "max_native": "82ea841a0522679a",
 
 	    	"ironsource_api": "1011dee21",
