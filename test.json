@@ -1,9 +1,9 @@
 {
     "Ads": {
         "show_ads": true,
-        "bannerAd": "admob",
-        "InterAd": "admob",
-        "NativeAd": "admob",
+        "bannerAd": "fan",
+        "InterAd": "fan",
+        "NativeAd": "fan",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
@@ -16,15 +16,15 @@
 		"ironsource_api": "1011dee21",
         "intersitial_click_activites": 1,
      
-        "show_banner_1":true,
+        "show_banner_1":false,
         "Url_banner_1":"www.google.com",
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
         "show_banner_2": true,
-         "Url_banner_2":"www.google.com",
-        "Image_banner_2":"https://play-lh.googleusercontent.com/5hvEXWaGCN1zCnyqRtmCtnXjtBe7w6KMTbAh94ANROg4vm_tA9TkWRItAaJefIPYcYU=w480-h960",
-        "Title_banner_2":"Nettoyeur de Téléphone"
+         "Url_banner_2":"https://giftcardway.com/",
+        "Image_banner_2":"",
+        "Title_banner_2":"get free gift card"
     
         
 
@@ -38,12 +38,15 @@
 			"popUpName": "Normal Popup",
 			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
 		},
-        "privacyPolicy": "https://www.google.com/",
+        "privacyPolicy": "https://",
+	    
 		"genderActivity": true,
+	    
 		"phoneSystemActivity": true,
+	    
 		"questionActivity1": {
 			"active": true,
-			"question": "Are you sure?",
+			"question": "you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -55,21 +58,26 @@
 		},
 		"birthdayActivity": true,
 		"enterActivity": true,
-		"extraButton1Active": true,
+	    
+	    
+		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://kooora.com",
 		"extraButton2Active": true,
 		"extraButton2Title": "Extra 2",
-		"extraButton2Url": "https://facebook.com",
+		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "Enter Now json",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://google.com",
+			
+			
+			
 			"popUpActive": true,
 			"popUpLink": "https://google.com",
 			"popUpName": "Browser App",
 			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"popUpTimer": 2000
+			"popUpTimer": 20000
 		}
     }
 }
