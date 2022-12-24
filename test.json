@@ -68,8 +68,8 @@
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "Enter Now json",
 		"webview": {
-			"active": false,
-			"url": "https://google.com",
+			"active": true,
+			"url": "https://github.com/,
 			
 			
 			
