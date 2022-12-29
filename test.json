@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
@@ -21,7 +21,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://giftcardway.com/",
         "Image_banner_2":"",
         "Title_banner_2":"get free gift card"
@@ -33,47 +33,47 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://google.com",
 			"popUpName": "Normal Popup",
 			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
 		"questionActivity2": {
-			"active": true,
+			"active": false,
 			"question": "Another question",
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": true,
-		"enterActivity": true,
+		"birthdayActivity": false,
+		"enterActivity": false,
 	    
 	    
 		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://kooora.com",
-		"extraButton2Active": true,
+		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www.primark.com/",
-		"enterButtonText": "Enter Now json",
+		"enterButtonText": "ok",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://github.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://google.com",
 			"popUpName": "Browser App",
 			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
