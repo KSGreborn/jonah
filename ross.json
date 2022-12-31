@@ -16,12 +16,12 @@
 		"ironsource_api": "1011dee21",
         "intersitial_click_activites": 1,
      
-        "show_banner_1":false,
+        "show_banner_1":true,
         "Url_banner_1":"www.google.com",
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
+        "show_banner_2": true,
          "Url_banner_2":"https://giftcardway.com/",
         "Image_banner_2":"",
         "Title_banner_2":"get free gift card"
