@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": false,
+        "show_ads": true,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
@@ -33,9 +33,9 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://google.com",
-			"popUpName": "Normal Popup",
+			"popUpName": "CLICK HERE",
 			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
 		},
         "privacyPolicy": "https://",
@@ -73,11 +73,11 @@
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://google.com",
-			"popUpName": "Browser App",
+				"popUpName": "CLICK HERE",
 			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
-			"popUpTimer": 20000
+			"popUpTimer": 2000
 		}
     }
 }
