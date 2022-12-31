@@ -16,12 +16,12 @@
 		"ironsource_api": "1011dee21",
         "intersitial_click_activites": 1,
      
-        "show_banner_1":true,
+        "show_banner_1":false,
         "Url_banner_1":"www.google.com",
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://giftcardway.com/",
         "Image_banner_2":"",
         "Title_banner_2":"get free gift card"
@@ -33,7 +33,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://google.com",
 			"popUpName": "CLICK HERE",
 			"popImage": "https://i.ibb.co/9b3PVt0/shoegift.jpg"
@@ -57,23 +57,23 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": true,
+		"enterActivity": false,
 	    
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://kooora.com",
-		"extraButton2Active": true,
+		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "ok",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://github.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://google.com",
 				"popUpName": "CLICK HERE",
 			"popImage": "https://i.ibb.co/9b3PVt0/shoegift.jpg",
