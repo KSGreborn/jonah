@@ -40,12 +40,12 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
+			"active": true,
 			"question": "you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -57,7 +57,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": true,
+		"enterActivity": false,
 	    
 	    
 		"extraButton1Active": false,
@@ -68,7 +68,7 @@
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "shop now",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.biglots.com/",
 			
 			
