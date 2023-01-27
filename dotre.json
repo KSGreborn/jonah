@@ -33,19 +33,19 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://drive.google.com/uc?export=download&id=1h9ymk0NptNcM6xf6KvICuH_ZAA3Ynr9P"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
+			"active": true,
 			"question": "Do You Like Fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -57,7 +57,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": true,
+		"enterActivity": false,
 	    
 	    
 		"extraButton1Active": false,
@@ -68,12 +68,12 @@
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "shop now",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.dollartree.com/",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://drive.google.com/uc?export=download&id=1h9ymk0NptNcM6xf6KvICuH_ZAA3Ynr9P",
