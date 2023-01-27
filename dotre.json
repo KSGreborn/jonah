@@ -40,12 +40,12 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "Do You Like Fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -57,7 +57,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": false,
+		"enterActivity": true,
 	    
 	    
 		"extraButton1Active": false,
@@ -68,7 +68,7 @@
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "shop now",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.dollartree.com/",
 			
 			
