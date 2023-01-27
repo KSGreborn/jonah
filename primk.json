@@ -60,16 +60,16 @@
 		"enterActivity": true,
 	    
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://kooora.com",
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www.primark.com/",
-		"enterButtonText": "ok",
+		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
-			"url": "https://github.com/",
+			"active": true,
+			"url": "https://www.primark.com/",
 			
 			
 			
