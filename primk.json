@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": false,
+        "show_ads": true,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
@@ -10,9 +10,9 @@
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
-        "max_banner": "3fe9bf293afbac9e",
-        "max_inter": "f70ec55c5274ad7a",
-        "max_native": "b43d132b63b854a6",
+        "max_banner": "2dc0eefdc588542d",
+        "max_inter": "1c4a17b690f24061",
+        "max_native": "4c087415d36f3861",
 		"ironsource_api": "1011dee21",
         "intersitial_click_activites": 1,
      
@@ -34,15 +34,15 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://giftcardway.com/",
+			"popUpLink": "https://vidstuff.xyz/o/132730/53174327",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -56,7 +56,7 @@
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": false,
+		"birthdayActivity": true,
 		"enterActivity": true,
 	    
 	    
@@ -74,7 +74,7 @@
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://giftcardway.com/",
+			"popUpLink": "https://vidstuff.xyz/o/132730/53174327",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg",
 			"popUpTimer": 40000
