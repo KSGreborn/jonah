@@ -21,7 +21,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://vidstuff.xyz/o/132730/53177516",
         "Image_banner_2":"",
         "Title_banner_2":"GET FREE GIFT CARD"
@@ -34,7 +34,7 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://vidstuff.xyz/o/132730/53177516",
+			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/KVjc2k3/newbigcpa.jpg"
 		},
@@ -69,12 +69,12 @@
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://www.biglots.com/",
+			"url": "https://giftcardway.com/",
 			
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://vidstuff.xyz/o/132730/53177516",
+			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/KVjc2k3/newbigcpa.jpg",
 			"popUpTimer": 40000
