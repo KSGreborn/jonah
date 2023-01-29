@@ -34,7 +34,7 @@
     "Data": {
 		"normalPopUp": {
 			"popUpActive": true,
-			"popUpLink": "https://vidstuff.xyz/o/132730/53174327",
+			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg"
 		},
@@ -69,12 +69,12 @@
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://www.primark.com/",
+			"url": "https://giftcardway.com/",
 			
 			
 			
 			"popUpActive": true,
-			"popUpLink": "https://vidstuff.xyz/o/132730/53174327",
+			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg",
 			"popUpTimer": 40000
