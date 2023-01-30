@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": false,
+        "show_ads": true,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
@@ -10,9 +10,9 @@
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
-        "max_banner": "3fe9bf293afbac9e",
-        "max_inter": "f70ec55c5274ad7a",
-        "max_native": "b43d132b63b854a6",
+        "max_banner": "e29edd2d40b21536",
+        "max_inter": "3803d2af335b6b9d",
+        "max_native": "2d405d56b311001e",
 		"ironsource_api": "1011dee21",
         "intersitial_click_activites": 1,
      
