@@ -40,12 +40,12 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "Do You Like Fashion?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
