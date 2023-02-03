@@ -1,15 +1,15 @@
 {
     "Ads": {
-        "show_ads": false,
-        "bannerAd": "max",
-        "InterAd": "max",
-        "NativeAd": "max",
+        "show_ads": true,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
-        "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
-        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+        "facebook_banner": "889962628896106_889966635562372",
+        "facebook_inter": "889962628896106_890610608831308",
+        "facebook_native": "889962628896106_890610688831300",
         "max_banner": "2dc0eefdc588542d",
         "max_inter": "1c4a17b690f24061",
         "max_native": "4c087415d36f3861",
@@ -21,10 +21,10 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": false,
+        "show_banner_2": true,
          "Url_banner_2":"https://giftcardway.com/",
         "Image_banner_2":"",
-        "Title_banner_2":"get free gift card"
+        "Title_banner_2":"GET FREE PRIMARK GIFT CARD"
     
         
 
@@ -33,7 +33,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg"
@@ -45,7 +45,7 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "Do you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -57,7 +57,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": false,
+		"enterActivity": true,
 	    
 	    
 		"extraButton1Active": false,
@@ -68,12 +68,12 @@
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
+			"active": true,
 			"url": "https://www.primark.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg",
