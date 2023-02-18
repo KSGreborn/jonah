@@ -57,7 +57,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": true,
+		"enterActivity": false,
 	    
 	    
 		"extraButton1Active": false,
@@ -68,7 +68,7 @@
 		"extraButton2Url": "https://www.primark.com/",
 		"enterButtonText": "shop now",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://giftcardway.com/",
 			
 			
