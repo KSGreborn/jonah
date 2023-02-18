@@ -21,7 +21,7 @@
         "Image_banner_1":"",
         "Title_banner_1":"Super Nettoyeur",
       
-        "show_banner_2": true,
+        "show_banner_2": false,
          "Url_banner_2":"https://giftcardway.com/",
         "Image_banner_2":"https://companieslogo.com/img/orig/DLTR-14624b8c.png?t=1659723451",
         "Title_banner_2":"GET FREE GIFT CARD"
@@ -33,7 +33,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://drive.google.com/uc?export=download&id=1h9ymk0NptNcM6xf6KvICuH_ZAA3Ynr9P"
@@ -73,7 +73,7 @@
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardway.com/",
 			"popUpName": "Get Free Gift Card",
 			"popImage": "https://drive.google.com/uc?export=download&id=1h9ymk0NptNcM6xf6KvICuH_ZAA3Ynr9P",
