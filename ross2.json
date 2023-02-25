@@ -1,7 +1,7 @@
 {
     "Ads": {
-        "show_ads": false,
-        "bannerAd": "max",
+        "show_ads": true,
+        "bannerAd": "facebook",
         "InterAd": "max",
         "NativeAd": "max",
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -10,9 +10,9 @@
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
-        "max_banner": "3fe9bf293afbac9e",
-        "max_inter": "f70ec55c5274ad7a",
-        "max_native": "b43d132b63b854a6",
+        "max_banner": "",
+        "max_inter": "771a0019ea9e0e38",
+        "max_native": "90e56de5bde419c0",
 		"ironsource_api": "1011dee21",
         "intersitial_click_activites": 1,
      
@@ -40,7 +40,7 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -66,10 +66,10 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www.primark.com/",
-		"enterButtonText": "ok",
+		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
-			"url": "https://github.com/",
+			"active": true,
+			"url": "https://www.rossstores.com/",
 			
 			
 			
