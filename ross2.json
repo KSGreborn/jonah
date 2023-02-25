@@ -60,7 +60,7 @@
 		"enterActivity": true,
 	    
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://kooora.com",
 		"extraButton2Active": false,
