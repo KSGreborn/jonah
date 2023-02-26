@@ -1,0 +1,48 @@
+			"popUpActive": false,
+			"popUpLink": "https://google.com",
+			"popUpName": "Normal Popup",
+			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+		},
+        "privacyPolicy": "https://",
+	    
+		"genderActivity": false,
+	    
+		"phoneSystemActivity": false,
+	    
+		"questionActivity1": {
+			"active": false,
+			"question": "you like shopping?",
+			"ansewrA": "yes",
+			"ansewrB": "no"
+		},
+		"questionActivity2": {
+			"active": false,
+			"question": "Another question",
+			"ansewrA": "Maybe",
+			"ansewrB": "I don't know"
+		},
+		"birthdayActivity": false,
+		"enterActivity": false,
+	    
+	    
+		"extraButton1Active": false,
+		"extraButton1Title": "Extra 1",
+		"extraButton1Url": "https://kooora.com",
+		"extraButton2Active": false,
+		"extraButton2Title": "Extra 2",
+		"extraButton2Url": "https://www.primark.com/",
+		"enterButtonText": "ok",
+		"webview": {
+			"active": false,
+			"url": "https://github.com/",
+			
+			
+			
+			"popUpActive": false,
+			"popUpLink": "https://google.com",
+			"popUpName": "Browser App",
+			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+			"popUpTimer": 20000
+		}
+    }
+}
