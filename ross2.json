@@ -56,7 +56,7 @@
 			"ansewrA": "Maybe",
 			"ansewrB": "I don't know"
 		},
-		"birthdayActivity": false,
+		"birthdayActivity": true,
 		"enterActivity": true,
 	    
 	    
@@ -69,7 +69,7 @@
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://giftcardway.com/",
+			"url": "https://www.rossstores.com/",
 			
 			
 			
