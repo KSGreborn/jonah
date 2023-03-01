@@ -57,7 +57,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-		"enterActivity": false,
+		"enterActivity": true,
 	    
 	    
 		"extraButton1Active": false,
@@ -66,7 +66,7 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www.primark.com/",
-		"enterButtonText": "ok",
+		"enterButtonText": "cnvrs",
 		"webview": {
 			"active": false,
 			"url": "https://github.com/",
